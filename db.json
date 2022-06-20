@@ -1,0 +1,254 @@
+{
+    "data": [
+        {
+            "country_code": "PLN",
+            "country": "Poland",
+            "city": "Ciechanowiec"
+        },
+        {
+            "country_code": "ZMW",
+            "country": "Zambia",
+            "city": "Livingstone"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Sindanghayu"
+        },
+        {
+            "country_code": "BRL",
+            "country": "Brazil",
+            "city": "Jutaí"
+        },
+        {
+            "country_code": "BAM",
+            "country": "Bosnia and Herzegovina",
+            "city": "Bila"
+        },
+        {
+            "country_code": "RUB",
+            "country": "Russia",
+            "city": "Gornyy"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Zhongxin"
+        },
+        {
+            "country_code": "ARS",
+            "country": "Argentina",
+            "city": "Luján"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Puunage"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Krajan"
+        },
+        {
+            "country_code": "EUR",
+            "country": "Belgium",
+            "city": "Mons"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Peseng"
+        },
+        {
+            "country_code": "MYR",
+            "country": "Malaysia",
+            "city": "Petaling Jaya"
+        },
+        {
+            "country_code": "COP",
+            "country": "Colombia",
+            "city": "Chaparral"
+        },
+        {
+            "country_code": "ALL",
+            "country": "Albania",
+            "city": "Librazhd-Qendër"
+        },
+        {
+            "country_code": "RSD",
+            "country": "Serbia",
+            "city": "Medveđa"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Kakaek"
+        },
+        {
+            "country_code": "SEK",
+            "country": "Sweden",
+            "city": "Sunne"
+        },
+        {
+            "country_code": "PEN",
+            "country": "Peru",
+            "city": "San Pablo"
+        },
+        {
+            "country_code": "BRL",
+            "country": "Brazil",
+            "city": "Artur Nogueira"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Genyem"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Xinye"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Dadong"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Raci Kulon"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Caiyuan"
+        },
+        {
+            "country_code": "EUR",
+            "country": "Italy",
+            "city": "Villanova"
+        },
+        {
+            "country_code": "TZS",
+            "country": "Tanzania",
+            "city": "Usevia"
+        },
+        {
+            "country_code": "MXN",
+            "country": "Mexico",
+            "city": "Bellavista"
+        },
+        {
+            "country_code": "JPY",
+            "country": "Japan",
+            "city": "Nakano"
+        },
+        {
+            "country_code": "EUR",
+            "country": "France",
+            "city": "Dunkerque"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Cibodas"
+        },
+        {
+            "country_code": "PLN",
+            "country": "Poland",
+            "city": "Ręczno"
+        },
+        {
+            "country_code": "HRK",
+            "country": "Croatia",
+            "city": "Vodnjan"
+        },
+        {
+            "country_code": "EUR",
+            "country": "France",
+            "city": "Saint-Jouan-des-Guérets"
+        },
+        {
+            "country_code": "PHP",
+            "country": "Philippines",
+            "city": "Cabittaogan"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Pangu"
+        },
+        {
+            "country_code": "CAD",
+            "country": "Canada",
+            "city": "Owen Sound"
+        },
+        {
+            "country_code": "SYP",
+            "country": "Syria",
+            "city": "Al Qamşīyah"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Shi’ao"
+        },
+        {
+            "country_code": "EUR",
+            "country": "Netherlands",
+            "city": "Eindhoven"
+        },
+        {
+            "country_code": "CZK",
+            "country": "Czech Republic",
+            "city": "Blučina"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Xinbao"
+        },
+        {
+            "country_code": "RUB",
+            "country": "Russia",
+            "city": "Cheremnoye"
+        },
+        {
+            "country_code": "XOF",
+            "country": "Togo",
+            "city": "Bassar"
+        },
+        {
+            "country_code": "IDR",
+            "country": "Indonesia",
+            "city": "Ngromo"
+        },
+        {
+            "country_code": "PHP",
+            "country": "Philippines",
+            "city": "Agbannawag"
+        },
+        {
+            "country_code": "CNY",
+            "country": "China",
+            "city": "Luofang"
+        },
+        {
+            "country_code": "USD",
+            "country": "Ecuador",
+            "city": "Gonzalo Pizarro"
+        },
+        {
+            "country_code": "THB",
+            "country": "Thailand",
+            "city": "Sapphaya"
+        },
+        {
+            "country_code": "COP",
+            "country": "Colombia",
+            "city": "Abejorral"
+        }
+    ]
+}
