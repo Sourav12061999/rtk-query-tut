@@ -12,7 +12,17 @@ const countryApi = createApi({
         method: "GET",
       }),
     }),
+    createCity: builder.mutation({
+      query: (data) => {
+        console.log(data);
+        return {
+          url: "/",
+          body: data,
+          method: "POST",
+        };
+      },
+    }),
   }),
 });
 export default countryApi;
-export const { useAllDataQuery } = countryApi;
+export const { useAllDataQuery, useCreateCityMutation } = countryApi;

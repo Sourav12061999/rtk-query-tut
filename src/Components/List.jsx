@@ -1,9 +1,17 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useAllDataQuery } from "../app/countryAPI";
-function List() {
-  const { data, error, isLoading, isSuccess, isError } = useAllDataQuery();
+function List({ isRefetch, setIsRefetch }) {
+  const { data, error, isLoading, isSuccess, isError, refetch } =
+    useAllDataQuery();
+  useEffect(() => {
+    if (isRefetch) {
+      refetch();
+      setIsRefetch(true);
+    }
+  }, [isRefetch]);
+
   return (
-    <div>
+    <div style={{ width: "30%" }}>
       {isLoading && <h1>Loading...</h1>}
       <ol>
         {isSuccess &&
@@ -12,7 +20,7 @@ function List() {
               <ul>
                 <li>Country:- {el.country}</li>
                 <li>City:- {el.city}</li>
-                <li>Country Code:- {el.country_code}</li>
+                <li>Country Code:- {el.c_code}</li>
               </ul>
             </li>
           ))}
